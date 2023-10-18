@@ -1,0 +1,11 @@
+﻿.vs
+Library
+Logs
+obj
+QCAR
+Recordings
+Temp
+.vsconfig
+*.sln
+*.csproj
+Packages/com.ptc.vuforia.engine-10.18.4.tgz
