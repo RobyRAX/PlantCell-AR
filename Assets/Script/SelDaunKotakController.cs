@@ -52,8 +52,8 @@ public class SelDaunKotakController : MonoBehaviour
             {
                 jaringanAll[i].obj.SetActive(true);
 
-                propertyBlock.SetFloat("_ColorVisibility", disableColorValue);
-                propertyBlock.SetFloat("_ShadeVisibility", disableShadeValue);
+                propertyBlock.SetFloat("_ColorVisibility", activeColorValue);
+                propertyBlock.SetFloat("_ShadeVisibility", activeShadeValue);
                 rend.SetPropertyBlock(propertyBlock, i);
             }
         }
