@@ -16,6 +16,8 @@ public class UIManager : MonoBehaviour
     private void Start()
     {
         ResetDetail();
+
+        details = GameObject.FindGameObjectsWithTag("Detail");
     }
 
     void SetDetail(ComponentParentController component)
