@@ -8,12 +8,12 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Penampang_Base_Color
-    second: {fileID: 2800000, guid: e9b6b0fbf3540d544b438569ebbd1a42, type: 3}
+    second: {fileID: 2800000, guid: ef9ed3e9b21e455409c05fd1651f4209, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Penampang_Normal
-    second: {fileID: 2800000, guid: ee9611057c5f52249951fdc35480a609, type: 3}
+    second: {fileID: 2800000, guid: 9277baaa8f6cfbd40b3a5e068f1e8ee3, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
